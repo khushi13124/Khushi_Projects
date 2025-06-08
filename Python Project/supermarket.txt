@@ -1,0 +1,17 @@
+Watermelon,100,70.0,Watermelon.jpg
+Toothpaste,200,150.0,toothpaste.jpg
+Potato,500,10.0,potato.jpg
+Toothbrush,100,50.0,toothbrush.jpg
+Tomato,180,20.0,tomato.jpg
+Talcum Powder,50,60.0,talcum_powder.JPG
+Soap,100,80.0,soap.jpg
+Shampoo,200,300.0,shampoo.jpg
+Peas,500,100.0,peas.jpg
+Orange,198,20.0,Orange.jpg
+Oil,100,300.0,oil.jpg
+Milk (1 Ltr),100,120.0,milk.JPG
+Mango,200,70.0,mango.JPG
+Litchi,300,50.0,litchi.JPG
+Kiwi,150,100.0,kiwi.jpg
+Ice-Cream,500,120.0,ice_cream.jpg
+Guava,100,40.0,guava.JPG
